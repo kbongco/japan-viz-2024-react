@@ -1,0 +1,298 @@
+[
+  {
+    "Date": "October 29 2024",
+    "From": "NRT",
+    "To": "Asakusa",
+    "Train Line": "Skyliner Limited",
+    "JPY": 2300,
+    "USD": 15.13157895
+  },
+  {
+    "Date": "October 30 2024",
+    "From": "Asakusa",
+    "To": "Harajuku",
+    "Train Line": "Tokyo Metro + Yamanote",
+    "JPY": 360,
+    "USD": 2.368421053
+  },
+  {
+    "Date": "October 30 2024",
+    "From": "Harajuku",
+    "To": "Shibuya",
+    "Train Line": "Yamanote Line",
+    "JPY": 150,
+    "USD": 0.9868421053
+  },
+  {
+    "Date": "October 30 2024",
+    "From": "Shibuya",
+    "To": "Asakusa",
+    "Train Line": "Tokyo Metro",
+    "JPY": 420,
+    "USD": 2.763157895
+  },
+  {
+    "Date": "October 31 2024",
+    "From": "Asakusa",
+    "To": "Chiyoda",
+    "Train Line": "Tokyo Metro",
+    "JPY": 360,
+    "USD": 2.368421053
+  },
+  {
+    "Date": "October 31 2024",
+    "From": "Chiyoda",
+    "To": "Asakusa",
+    "Train Line": "Tokyo Metro",
+    "JPY": 360,
+    "USD": 2.368421053
+  },
+  {
+    "Date": "October 31 2024",
+    "From": "Asakusa",
+    "To": "Harajuku",
+    "Train Line": "Tokyo Metro + Yamanote",
+    "JPY": 360,
+    "USD": 2.368421053
+  },
+  {
+    "Date": "October 31 2024",
+    "From": "Harajuku",
+    "To": "Akihabara",
+    "Train Line": "Yamanote Line",
+    "JPY": 180,
+    "USD": 1.184210526
+  },
+  {
+    "Date": "October 31 2024",
+    "From": "Akihabra",
+    "To": "Ikebukuro",
+    "Train Line": "Yamanote Line",
+    "JPY": 210,
+    "USD": 1.381578947
+  },
+  {
+    "Date": "October 31 2024",
+    "From": "Ikebukuro",
+    "To": "Asakusa",
+    "Train Line": "Tokyo Metro",
+    "JPY": 390,
+    "USD": 2.565789474
+  },
+  {
+    "Date": "November 1 2024",
+    "From": "Asakusa",
+    "To": "Tokyo",
+    "Train Line": "Tokyo Metro",
+    "JPY": 380,
+    "USD": 2.5
+  },
+  {
+    "Date": "November 1 2024",
+    "From": "Shin Osaka",
+    "To": "Higobashi Station",
+    "Train Line": "Osaka Metro",
+    "JPY": 240,
+    "USD": 1.578947368
+  },
+  {
+    "Date": "November 1 2024",
+    "From": "Higobashi Station",
+    "To": "Namba",
+    "Train Line": "Osaka Metro",
+    "JPY": 190,
+    "USD": 1.25
+  },
+  {
+    "Date": "November 1 2024",
+    "From": "Namba",
+    "To": "Higobashi Station",
+    "Train Line": "Osaka Metro",
+    "JPY": 190,
+    "USD": 1.25
+  },
+  {
+    "Date": "November 2 2024",
+    "From": "Higobashi Station",
+    "To": "St Marys cathedral",
+    "Train Line": "Osaka Metro",
+    "JPY": 190,
+    "USD": 1.25
+  },
+  {
+    "Date": "November 2 2024",
+    "From": "St Marys Cathedral",
+    "To": "Kyoto",
+    "Train Line": "Osaka Metro",
+    "JPY": 660,
+    "USD": 4.342105263
+  },
+  {
+    "Date": "November 2 2024",
+    "From": "Kyoto",
+    "To": "Higobashi Station",
+    "Train Line": "Osaka Metro",
+    "JPY": 660,
+    "USD": 4.342105263
+  },
+  {
+    "Date": "November 2 2024",
+    "From": "Higobashi Station",
+    "To": "Namba",
+    "Train Line": "Osaka Metro",
+    "JPY": "OSAKA AMAZING PASS USED",
+    "USD": ""
+  },
+  {
+    "Date": "November 2 2024",
+    "From": "Namba",
+    "To": "Higobashi Station",
+    "Train Line": "Osaka Metro",
+    "JPY": "OSAKA AMAZING PASS USED",
+    "USD": ""
+  },
+  {
+    "Date": "November 3 2024",
+    "From": "Higobashi Station",
+    "To": "Kinetsu Osaka",
+    "Train Line": "Osaka Metro",
+    "JPY": 480,
+    "USD": 3.157894737
+  },
+  {
+    "Date": "November 3 2024",
+    "From": "Kinetsu Osaka",
+    "To": "Higobashi Station",
+    "Train Line": "Osaka Metro",
+    "JPY": 480,
+    "USD": 3.157894737
+  },
+  {
+    "Date": "November 3 2024",
+    "From": "Higobashi Station",
+    "To": "Studio City",
+    "Train Line": "Osaka Metro",
+    "JPY": "OSAKA AMAZING PASS USED",
+    "USD": ""
+  },
+  {
+    "Date": "November 3 2024",
+    "From": "Studio City",
+    "To": "Higobashi Station",
+    "Train Line": "Osaka Metro",
+    "JPY": "OSAKA AMAZING PASS USED",
+    "USD": ""
+  },
+  {
+    "Date": "November 3 2024",
+    "From": "Higobashi Station",
+    "To": "Namba",
+    "Train Line": "Osaka Metro",
+    "JPY": "OSAKA AMAZING PASS USED",
+    "USD": ""
+  },
+  {
+    "Date": "November 3 2024",
+    "From": "Namba",
+    "To": "Higobashi Station",
+    "Train Line": "Osaka Metro",
+    "JPY": "OSAKA AMAZING PASS USED",
+    "USD": ""
+  },
+  {
+    "Date": "November 4 2024",
+    "From": "Higobashi Station",
+    "To": "Shin Osaka",
+    "Train Line": "Osaka Metro",
+    "JPY": 240,
+    "USD": 1.578947368
+  },
+  {
+    "Date": "November 4 2024",
+    "From": "Odawara",
+    "To": "Gora",
+    "Train Line": "Hakone Line",
+    "JPY": 1230,
+    "USD": 8.092105263
+  },
+  {
+    "Date": "November 4 2024",
+    "From": "Gora",
+    "To": "Okuwadani",
+    "Train Line": "Hakone Line",
+    "JPY": 340,
+    "USD": 2.236842105
+  },
+  {
+    "Date": "November 5 2024",
+    "From": "Okuwadani",
+    "To": "Gora",
+    "Train Line": "Hakone Line",
+    "JPY": 340,
+    "USD": 2.236842105
+  },
+  {
+    "Date": "November 5 2024",
+    "From": "Gora",
+    "To": "Odawara",
+    "Train Line": "Hakone Line",
+    "JPY": 1230,
+    "USD": 8.092105263
+  },
+  {
+    "Date": "November 5 2024",
+    "From": "Odawara",
+    "To": "Shin Yokohama",
+    "Train Line": "Shinkansen Green Car",
+    "JPY": 8200,
+    "USD": 53.94736842
+  },
+  {
+    "Date": "November 5 2024",
+    "From": "Shin Yokohama",
+    "To": "Hotel",
+    "Train Line": "Yokohama Metro?",
+    "JPY": 530,
+    "USD": 3.486842105
+  },
+  {
+    "Date": "November 6 2024",
+    "From": "Hotel",
+    "To": "Shin Yokohama",
+    "Train Line": "Yokohama Metro?",
+    "JPY": 530,
+    "USD": 3.486842105
+  },
+  {
+    "Date": "November 6 2024",
+    "From": "Tokyo Station",
+    "To": "Shinujuku",
+    "Train Line": "Yamanote Line",
+    "JPY": 210,
+    "USD": 1.381578947
+  },
+  {
+    "Date": "November 6 2024",
+    "From": "Shinjuku",
+    "To": "Akihabara",
+    "Train Line": "Yamanote Line",
+    "JPY": 180,
+    "USD": 1.184210526
+  },
+  {
+    "Date": "November 6 2024",
+    "From": "Akihabra",
+    "To": "Shinjuku",
+    "Train Line": "Yamanote Line",
+    "JPY": 180,
+    "USD": 1.184210526
+  },
+  {
+    "Date": "November 7 2024",
+    "From": "Shinjuku",
+    "To": "Narita Airport",
+    "Train Line": "Narita Express",
+    "JPY": 3250,
+    "USD": 21.38157895
+  }
+]

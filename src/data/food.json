@@ -1,0 +1,314 @@
+[
+  {
+    "Date": "October 29 2024",
+    "Location": "Lawsons",
+    "Catagory": "Konbini",
+    "JPY": 1400,
+    "USD": 9.210526316,
+    "Extra Notes": ""
+  },
+  {
+    "Date": "October 30 2024",
+    "Location": "Lawsons",
+    "Catagory": "Konbini",
+    "JPY": 1800,
+    "USD": 11.84210526,
+    "Extra Notes": ""
+  },
+  {
+    "Date": "October 30 2024",
+    "Location": "Vending Machine",
+    "Catagory": "Vending Machine",
+    "JPY": 140,
+    "USD": 0.9210526316,
+    "Extra Notes": ""
+  },
+  {
+    "Date": "October 30 2024",
+    "Location": "Ikinari Steak",
+    "Catagory": "Sit Down",
+    "JPY": 3500,
+    "USD": 23.02631579,
+    "Extra Notes": ""
+  },
+  {
+    "Date": "October 30 2024",
+    "Location": "Ramen Shop in Shibuya",
+    "Catagory": "Sit Down",
+    "JPY": 2300,
+    "USD": 15.13157895,
+    "Extra Notes": ""
+  },
+  {
+    "Date": "October 31 2024",
+    "Location": "Lawsons",
+    "Catagory": "Konbini",
+    "JPY": 1400,
+    "USD": 9.210526316,
+    "Extra Notes": "Paid in CC"
+  },
+  {
+    "Date": "October 31 2024",
+    "Location": "Family Mart",
+    "Catagory": "Konbini",
+    "JPY": 500,
+    "USD": 3.289473684,
+    "Extra Notes": ""
+  },
+  {
+    "Date": "October 31 2024",
+    "Location": "Lawsons",
+    "Catagory": "Konbini",
+    "JPY": 500,
+    "USD": 3.289473684,
+    "Extra Notes": ""
+  },
+  {
+    "Date": "October 31 2024",
+    "Location": "Vending Machine",
+    "Catagory": "Vending Machine",
+    "JPY": 150,
+    "USD": 0.9868421053,
+    "Extra Notes": ""
+  },
+  {
+    "Date": "October 31 2024",
+    "Location": "Halal Spot Kebab",
+    "Catagory": "Fast food place",
+    "JPY": 800,
+    "USD": 5.263157895,
+    "Extra Notes": ""
+  },
+  {
+    "Date": "October 31 2024",
+    "Location": "Yakinuku",
+    "Catagory": "Sit Down",
+    "JPY": 5000,
+    "USD": 32.89473684,
+    "Extra Notes": ""
+  },
+  {
+    "Date": "November 1 2024",
+    "Location": "Lawsons",
+    "Catagory": "Konbini",
+    "JPY": 1200,
+    "USD": 7.894736842,
+    "Extra Notes": ""
+  },
+  {
+    "Date": "November 1 2024",
+    "Location": "Ramen Shop in Osaka",
+    "Catagory": "Sit Down",
+    "JPY": 3000,
+    "USD": 19.73684211,
+    "Extra Notes": ""
+  },
+  {
+    "Date": "November 1 2024",
+    "Location": "Okonomiyaki",
+    "Catagory": "Sit Down",
+    "JPY": 4500,
+    "USD": 29.60526316,
+    "Extra Notes": "need to divide this by 2"
+  },
+  {
+    "Date": "November 1 2024",
+    "Location": "Final Fantasy Cafe",
+    "Catagory": "Sit Down",
+    "JPY": 4000,
+    "USD": 26.31578947,
+    "Extra Notes": "Need to research actual price"
+  },
+  {
+    "Date": "November 2 2024",
+    "Location": "Seven-eleven",
+    "Catagory": "Konbini",
+    "JPY": 1000,
+    "USD": 6.578947368,
+    "Extra Notes": ""
+  },
+  {
+    "Date": "November 2 2024",
+    "Location": "Hatena Burger",
+    "Catagory": "Sit Down",
+    "JPY": 3500,
+    "USD": 23.02631579,
+    "Extra Notes": ""
+  },
+  {
+    "Date": "November 2 2024",
+    "Location": "Vending Machine",
+    "Catagory": "Vending Machine",
+    "JPY": 150,
+    "USD": 0.9868421053,
+    "Extra Notes": ""
+  },
+  {
+    "Date": "November 2 2024",
+    "Location": "Curry Spot near Round1",
+    "Catagory": "Sit Down",
+    "JPY": 3000,
+    "USD": 19.73684211,
+    "Extra Notes": ""
+  },
+  {
+    "Date": "November 2 2024",
+    "Location": "Sushi",
+    "Catagory": "Sit Down",
+    "JPY": 6000,
+    "USD": 39.47368421,
+    "Extra Notes": ""
+  },
+  {
+    "Date": "November 3 2024",
+    "Location": "Overpriced Harry Potter Food",
+    "Catagory": "Sit Down",
+    "JPY": 3000,
+    "USD": 19.73684211,
+    "Extra Notes": ""
+  },
+  {
+    "Date": "November 3 2024",
+    "Location": "Family Mart",
+    "Catagory": "Konbini",
+    "JPY": 600,
+    "USD": 3.947368421,
+    "Extra Notes": ""
+  },
+  {
+    "Date": "November 3 2024",
+    "Location": "Seven-eleven",
+    "Catagory": "Konbini",
+    "JPY": 1200,
+    "USD": 7.894736842,
+    "Extra Notes": "Paid in CC"
+  },
+  {
+    "Date": "November 3 2024",
+    "Location": "Wagyu Beef",
+    "Catagory": "Street Food",
+    "JPY": 5000,
+    "USD": 32.89473684,
+    "Extra Notes": ""
+  },
+  {
+    "Date": "November 4 2024",
+    "Location": "Lawsons",
+    "Catagory": "Konbini",
+    "JPY": 1800,
+    "USD": 11.84210526,
+    "Extra Notes": ""
+  },
+  {
+    "Date": "November 4 2024",
+    "Location": "That Shumai and Siopao Place",
+    "Catagory": "Fast food place",
+    "JPY": 2200,
+    "USD": 14.47368421,
+    "Extra Notes": "Rough estimate"
+  },
+  {
+    "Date": "November 4 2024",
+    "Location": "Hotel",
+    "Catagory": "Fast food",
+    "JPY": 500,
+    "USD": 3.289473684,
+    "Extra Notes": ""
+  },
+  {
+    "Date": "November 5 2024",
+    "Location": "Cafe in Yokohama",
+    "Catagory": "Sit down",
+    "JPY": 2000,
+    "USD": 13.15789474,
+    "Extra Notes": ""
+  },
+  {
+    "Date": "November 5 2024",
+    "Location": "KFC",
+    "Catagory": "fast food place",
+    "JPY": 1600,
+    "USD": 10.52631579,
+    "Extra Notes": ""
+  },
+  {
+    "Date": "November 6 2024",
+    "Location": "Seven-eleven",
+    "Catagory": "Konbini",
+    "JPY": 1200,
+    "USD": 7.894736842,
+    "Extra Notes": ""
+  },
+  {
+    "Date": "November 6 2024",
+    "Location": "Pepper Lunch",
+    "Catagory": "Sit down",
+    "JPY": 3000,
+    "USD": 19.73684211,
+    "Extra Notes": ""
+  },
+  {
+    "Date": "November 6 2024",
+    "Location": "Taiyaki",
+    "Catagory": "Street Food",
+    "JPY": 700,
+    "USD": 4.605263158,
+    "Extra Notes": ""
+  },
+  {
+    "Date": "November 6 2024",
+    "Location": "Yakinuku",
+    "Catagory": "Sit down",
+    "JPY": 9200,
+    "USD": 60.52631579,
+    "Extra Notes": "Paid in CC"
+  },
+  {
+    "Date": "November 6 2024",
+    "Location": "Lawsons",
+    "Catagory": "Konbini",
+    "JPY": 800,
+    "USD": 5.263157895,
+    "Extra Notes": "Paid in CC"
+  },
+  {
+    "Date": "November 6 2024",
+    "Location": "Vending Machine",
+    "Catagory": "Vending Machine",
+    "JPY": 150,
+    "USD": 0.9868421053,
+    "Extra Notes": ""
+  },
+  {
+    "Date": "November 7 2024",
+    "Location": "Lawsons",
+    "Catagory": "Konbini",
+    "JPY": 1100,
+    "USD": 7.236842105,
+    "Extra Notes": "Paid in CC"
+  },
+  {
+    "Date": "November 7 2024",
+    "Location": "Family Mart",
+    "Catagory": "Konbini",
+    "JPY": 1000,
+    "USD": 6.578947368,
+    "Extra Notes": ""
+  },
+  {
+    "Date": "November 7 2024",
+    "Location": "Ippudo",
+    "Catagory": "Sit Down",
+    "JPY": 2200,
+    "USD": 14.47368421,
+    "Extra Notes": ""
+  },
+  {
+    "Date": "November 7 2024",
+    "Location": "Starbucks",
+    "Catagory": "fast food",
+    "JPY": 800,
+    "USD": 5.263157895,
+    "Extra Notes": ""
+  }
+]
