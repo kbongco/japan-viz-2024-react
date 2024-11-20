@@ -5,6 +5,7 @@ export default function About() {
         <section id="stats" className="grid grid-cols-1 md:grid-cols-2 gap-8">
           <div className='flex justify-center items-center flex-col'>
             <h2 className="text-3xl font-bold mb-4">Basic and Fun Stats</h2>
+            <p>Some random and fun stats during my trip</p>
           </div>
 
           <div className="flex flex-row justify-center items-star gap-x-1">
