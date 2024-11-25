@@ -17,3 +17,7 @@ export interface GraphData {
   data: number[];
   backgroundColor: string[];
 }
+
+export interface ToggleProps{
+  label: string;
+}
