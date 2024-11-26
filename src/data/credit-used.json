@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "Category": "Fun Things",
+    "USD": 200.65,
+    "JPY": 30498.8
+  },
+  {
+    "id": 2,
+    "Category": "Food",
+    "USD": 90.13,
+    "JPY": 13699.76
+  },
+  {
+    "id": 3,
+    "Category": "Souvenirs",
+    "USD": 59.99,
+    "JPY": 9118.48
+  },
+  {
+    "id": 4,
+    "Category": "Transportation",
+    "USD": 0,
+    "JPY": 0
+  }
+]

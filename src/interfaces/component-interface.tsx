@@ -6,3 +6,18 @@ export interface CardInterface {
   description: string,
   value?: string
 }
+
+export interface CircleGraph {
+  labels: string[];
+  datasets: GraphData
+}
+
+export interface GraphData {
+  label: string;
+  data: number[];
+  backgroundColor: string[];
+}
+
+export interface ToggleProps{
+  label: string;
+}
