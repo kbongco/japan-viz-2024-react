@@ -1,6 +1,7 @@
 import cash from './../data/cash-used.json'
 import credit from './../data/credit-used.json';
 import { calculateTotal } from '../utilities/sumTotal';
+import CurrencyToggle from './Toggle';
 
 export default function Visualized() {
   console.log(cash, 'test');
@@ -15,6 +16,9 @@ export default function Visualized() {
         <section id='overall' className='grid grid-cols-1 md:grid-cols-2 gap-8'>
           <div className='flex justify-center items-center flex-col'>
             <h2 className="text-3xl font-bold mb-4">Overall Expenses </h2>
+          </div>
+          <div className='flex justify-center items-center'>
+          <CurrencyToggle/>
           </div>
         </section>
         <section className='grid grid-cols-2 mt-8'>
