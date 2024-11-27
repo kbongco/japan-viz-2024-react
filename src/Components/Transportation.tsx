@@ -1,4 +1,16 @@
+import { combineTransportationData } from "../utilities/combining-transport"
+import stations from './../data/transportation-stations.json'
+import transportData from './../data/transportation.json'
+
 export default function Transportation() {
+  console.log(transportData)
+  console.log(stations);
+
+  const combinedData = (stations, transportData) => {
+    return transportation.map((transport) => {
+      const { date, origin-station, destinationStation, JPY, USD }
+    })
+  }
   return ( 
     <>
 <div className="p-8 grid grid-cols-3 gap-8">

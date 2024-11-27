@@ -1,0 +1,422 @@
+[
+  {
+    "date": "October 29 2024",
+    "originStation": "Narita Airport",
+    "destinationTransferStation": "Ueno",
+    "lineTaken": "Skyliner Limited",
+    "isFinalDestination": "FALSE"
+  },
+  {
+    "date": "October 29 2024",
+    "originStation": "Ueno",
+    "destinationTransferStation": "Asakusa",
+    "lineTaken": "Tokyo Metro - Ginza Line",
+    "isFinalDestination": "TRUE"
+  },
+  {
+    "date": "October 30 2024",
+    "originStation": "Asakusa",
+    "destinationTransferStation": "Ginza",
+    "lineTaken": "Tokyo Metro - Ginza Line",
+    "isFinalDestination": "FALSE"
+  },
+  {
+    "date": "October 30 2024",
+    "originStation": "Ginza",
+    "destinationTransferStation": "Harajuku",
+    "lineTaken": "Yamanote Line",
+    "isFinalDestination": "TRUE"
+  },
+  {
+    "date": "October 30 2024",
+    "originStation": "Harajuku",
+    "destinationTransferStation": "Shibuya",
+    "lineTaken": "Yamanote Line",
+    "isFinalDestination": "TRUE"
+  },
+  {
+    "date": "October 30 2024",
+    "originStation": "Shibuya",
+    "destinationTransferStation": "Asakusa",
+    "lineTaken": "Tokyo Metro - Ginza Line",
+    "isFinalDestination": "TRUE"
+  },
+  {
+    "date": "October 31 2024",
+    "originStation": "Asakusa",
+    "destinationTransferStation": "KitaSenju",
+    "lineTaken": "Tokyo Metro - Tobu Skytree",
+    "isFinalDestination": "FALSE"
+  },
+  {
+    "date": "October 31 2024",
+    "originStation": "KitaSenju",
+    "destinationTransferStation": "Machiya",
+    "lineTaken": "Tokyo Metro - Chiyoda Line",
+    "isFinalDestination": "TRUE"
+  },
+  {
+    "date": "October 31 2024",
+    "originStation": "Machiya",
+    "destinationTransferStation": "KitaSenju",
+    "lineTaken": "Tokyo Metro - Chiyoda Line",
+    "isFinalDestination": "FALSE"
+  },
+  {
+    "date": "October 31 2024",
+    "originStation": "KitaSenju",
+    "destinationTransferStation": "Asakusa",
+    "lineTaken": "Tokyo Metro - Tobu Skytree",
+    "isFinalDestination": "TRUE"
+  },
+  {
+    "date": "October 31 2024",
+    "originStation": "Asakusa",
+    "destinationTransferStation": "Ginza",
+    "lineTaken": "Tokyo Metro - Ginza Line",
+    "isFinalDestination": "FALSE"
+  },
+  {
+    "date": "October 31 2024",
+    "originStation": "Ginza",
+    "destinationTransferStation": "Harajuku",
+    "lineTaken": "Yamanote Line",
+    "isFinalDestination": "TRUE"
+  },
+  {
+    "date": "October 31 2024",
+    "originStation": "Harajuku",
+    "destinationTransferStation": "Akihabara",
+    "lineTaken": "Yamanote Line",
+    "isFinalDestination": "TRUE"
+  },
+  {
+    "date": "October 31 2024",
+    "originStation": "Akihabara",
+    "destinationTransferStation": "Ikebukuro",
+    "lineTaken": "Yamanote Line",
+    "isFinalDestination": "TRUE"
+  },
+  {
+    "date": "October 31 2024",
+    "originStation": "Ikebukuro",
+    "destinationTransferStation": "Ueno",
+    "lineTaken": "Yamanote Line",
+    "isFinalDestination": "FALSE"
+  },
+  {
+    "date": "October 31 2024",
+    "originStation": "Ueno",
+    "destinationTransferStation": "Asakusa",
+    "lineTaken": "Tokyo Metro - Ginza Line",
+    "isFinalDestination": "TRUE"
+  },
+  {
+    "date": "November 1 2024",
+    "originStation": "Asakusa",
+    "destinationTransferStation": "Tokyo",
+    "lineTaken": "Tokyo Metro - Asakusa Line",
+    "isFinalDestination": "TRUE"
+  },
+  {
+    "date": "November 1",
+    "originStation": "Tokyo",
+    "destinationTransferStation": "Osaka",
+    "lineTaken": "Nozomi Shinkansen",
+    "isFinalDestination": "TRUE"
+  },
+  {
+    "date": "November 1",
+    "originStation": "Shin-Osaka",
+    "destinationTransferStation": "Yodoyabashi",
+    "lineTaken": "Osaka Metro - MidoSuji Line",
+    "isFinalDestination": "TRUE"
+  },
+  {
+    "date": "November 1",
+    "originStation": "Higobashi",
+    "destinationTransferStation": "Namba",
+    "lineTaken": "Osaka Metro - Yotsubashi Line",
+    "isFinalDestination": "TRUE"
+  },
+  {
+    "date": "November 1",
+    "originStation": "Namba",
+    "destinationTransferStation": "Higobashi",
+    "lineTaken": "Osaka Metro - Yotsubashi Line",
+    "isFinalDestination": "TRUE"
+  },
+  {
+    "date": "November 2",
+    "originStation": "Higobashi",
+    "destinationTransferStation": "Honmachi",
+    "lineTaken": "Osaka Metro - Yotsubashi Line",
+    "isFinalDestination": "FALSE"
+  },
+  {
+    "date": "November 2",
+    "originStation": "Honmachi",
+    "destinationTransferStation": "Tanimachiyonchome",
+    "lineTaken": "Osaka Metro - Chuo Line",
+    "isFinalDestination": "FALSE"
+  },
+  {
+    "date": "November 2",
+    "originStation": "Morinomiya Station",
+    "destinationTransferStation": "Ikoma",
+    "lineTaken": "Osaka Metro - Chuo Line",
+    "isFinalDestination": "FALSE"
+  },
+  {
+    "date": "November 2",
+    "originStation": "Ikoma",
+    "destinationTransferStation": "Yamato-Saidaiji",
+    "lineTaken": "Kinetsu-Nara Line",
+    "isFinalDestination": "FALSE"
+  },
+  {
+    "date": "November 2",
+    "originStation": "Yamato-Saidaiji",
+    "destinationTransferStation": "Okubo Station",
+    "lineTaken": "Kinetsu-Kyoto Line",
+    "isFinalDestination": "FALSE"
+  },
+  {
+    "date": "November 2",
+    "originStation": "Okubo Station",
+    "destinationTransferStation": "Ogura Station",
+    "lineTaken": "Kinetsu-Kyoto Line",
+    "isFinalDestination": "TRUE"
+  },
+  {
+    "date": "November 2",
+    "originStation": "Ogura Station",
+    "destinationTransferStation": "Kyoto",
+    "lineTaken": "Kyoto Line",
+    "isFinalDestination": "FALSE"
+  },
+  {
+    "date": "November 2",
+    "originStation": "Kyoto",
+    "destinationTransferStation": "Osaka Station",
+    "lineTaken": "Osaka Metro- Tokaido Sanyo Line",
+    "isFinalDestination": "FALSE"
+  },
+  {
+    "date": "November 2",
+    "originStation": "Osaka Station",
+    "destinationTransferStation": "Higobashi",
+    "lineTaken": "Osaka Metro - Yotsubashi Line",
+    "isFinalDestination": "TRUE"
+  },
+  {
+    "date": "November 2",
+    "originStation": "Higobashi",
+    "destinationTransferStation": "Namba",
+    "lineTaken": "Osaka Metro - Yotsubashi Line",
+    "isFinalDestination": "TRUE"
+  },
+  {
+    "date": "November 2",
+    "originStation": "Namba",
+    "destinationTransferStation": "Higobashi",
+    "lineTaken": "Osaka Metro - Yotsubashi Line",
+    "isFinalDestination": "TRUE"
+  },
+  {
+    "date": "November 3",
+    "originStation": "Higobashi",
+    "destinationTransferStation": "Namba",
+    "lineTaken": "Osaka Metro - Yotsubashi Line",
+    "isFinalDestination": "TRUE"
+  },
+  {
+    "date": "November 3",
+    "originStation": "Namba",
+    "destinationTransferStation": "Tsuruhashi",
+    "lineTaken": "Osaka Metro - Sennichimae Line",
+    "isFinalDestination": "FALSE"
+  },
+  {
+    "date": "November 3",
+    "originStation": "Tsuruhashi",
+    "destinationTransferStation": "Shuntokumichi",
+    "lineTaken": "Kinetsu-Nara Line",
+    "isFinalDestination": "TRUE"
+  },
+  {
+    "date": "November 3",
+    "originStation": "Shuntokumichi",
+    "destinationTransferStation": "Tsuruhashi",
+    "lineTaken": "Kinetsu-Nara Line",
+    "isFinalDestination": "FALSE"
+  },
+  {
+    "date": "November 3",
+    "originStation": "Tsuruhashi",
+    "destinationTransferStation": "Namba",
+    "lineTaken": "Osaka Metro - Sennichimae Line",
+    "isFinalDestination": "FALSE"
+  },
+  {
+    "date": "November 3",
+    "originStation": "Namba",
+    "destinationTransferStation": "Higobashi",
+    "lineTaken": "Osaka Metro - Yotsubashi Line",
+    "isFinalDestination": "TRUE"
+  },
+  {
+    "date": "November 3",
+    "originStation": "Higobashi",
+    "destinationTransferStation": "Nishi Umeda",
+    "lineTaken": "Osaka Metro - Yotsubashi Line",
+    "isFinalDestination": "FALSE"
+  },
+  {
+    "date": "November 3",
+    "originStation": "Nishi Umeda",
+    "destinationTransferStation": "Osaka Station",
+    "lineTaken": "Osaka Metro - Osaka Loop Line",
+    "isFinalDestination": "FALSE"
+  },
+  {
+    "date": "November 3",
+    "originStation": "Osaka Station",
+    "destinationTransferStation": "Studio City",
+    "lineTaken": "JR Yumesaki Line",
+    "isFinalDestination": "TRUE"
+  },
+  {
+    "date": "November 3",
+    "originStation": "Studio City",
+    "destinationTransferStation": "Osaka Station",
+    "lineTaken": "JR Yumesaki Line",
+    "isFinalDestination": "FALSE"
+  },
+  {
+    "date": "November 3",
+    "originStation": "Osaka Station",
+    "destinationTransferStation": "Nishi Umeda",
+    "lineTaken": "Osaka Metro - Osaka Loop Line",
+    "isFinalDestination": "FALSE"
+  },
+  {
+    "date": "November 3",
+    "originStation": "Nishi Umeda",
+    "destinationTransferStation": "Higobashi",
+    "lineTaken": "Osaka Metro - Yotsubashi Line",
+    "isFinalDestination": "TRUE"
+  },
+  {
+    "date": "November 3",
+    "originStation": "Higobashi",
+    "destinationTransferStation": "Namba",
+    "lineTaken": "Osaka Metro - Yotsubashi Line",
+    "isFinalDestination": "TRUE"
+  },
+  {
+    "date": "November 3",
+    "originStation": "Namba",
+    "destinationTransferStation": "Higobashi",
+    "lineTaken": "Osaka Metro - Yotsubashi Line",
+    "isFinalDestination": "TRUE"
+  },
+  {
+    "date": "November 4",
+    "originStation": "Yodoyabashi",
+    "destinationTransferStation": "Shin-Osaka",
+    "lineTaken": "Osaka Metro - MidoSuji Line",
+    "isFinalDestination": "TRUE"
+  },
+  {
+    "date": "November 4",
+    "originStation": "Shin-Osaka",
+    "destinationTransferStation": "Odawara",
+    "lineTaken": "Tokaido Shinkansen",
+    "isFinalDestination": "TRUE"
+  },
+  {
+    "date": "November 4",
+    "originStation": "Odawara",
+    "destinationTransferStation": "Gora",
+    "lineTaken": "Hakone Yumoto Line",
+    "isFinalDestination": "TRUE"
+  },
+  {
+    "date": "November 4",
+    "originStation": "Gora",
+    "destinationTransferStation": "Odawara",
+    "lineTaken": "Hakone Yumoto Line",
+    "isFinalDestination": "TRUE"
+  },
+  {
+    "date": "November 5",
+    "originStation": "Odawara",
+    "destinationTransferStation": "Shin Yokohama",
+    "lineTaken": "Hikari Shinkansen",
+    "isFinalDestination": "FALSE"
+  },
+  {
+    "date": "November 5",
+    "originStation": "Shin-Yokohama",
+    "destinationTransferStation": "Kikuna Station",
+    "lineTaken": "Yokohama Metro",
+    "isFinalDestination": "FALSE"
+  },
+  {
+    "date": "November 5",
+    "originStation": "Kikuna Station",
+    "destinationTransferStation": "Minatomirai",
+    "lineTaken": "Yokohama Metro",
+    "isFinalDestination": "FALSE"
+  },
+  {
+    "date": "November 6",
+    "originStation": "Minatomirai",
+    "destinationTransferStation": "Kikuna Station",
+    "lineTaken": "Yokohama Metro",
+    "isFinalDestination": "TRUE"
+  },
+  {
+    "date": "November 6",
+    "originStation": "Kikuna Station",
+    "destinationTransferStation": "Shin-Yokohama",
+    "lineTaken": "Yokohama Metro",
+    "isFinalDestination": "TRUE"
+  },
+  {
+    "date": "November 6",
+    "originStation": "Shin-Yokohama",
+    "destinationTransferStation": "Tokyo",
+    "lineTaken": "Hikari Shinkansen",
+    "isFinalDestination": "TRUE"
+  },
+  {
+    "date": "November 6",
+    "originStation": "Tokyo",
+    "destinationTransferStation": "Shinjuku",
+    "lineTaken": "Yamanote Line",
+    "isFinalDestination": "TRUE"
+  },
+  {
+    "date": "November 6",
+    "originStation": "Shinjuku",
+    "destinationTransferStation": "Akihabara",
+    "lineTaken": "Yamanote Line",
+    "isFinalDestination": "TRUE"
+  },
+  {
+    "date": "November 6",
+    "originStation": "Akihabara",
+    "destinationTransferStation": "Shinjuku",
+    "lineTaken": "Yamanote Line",
+    "isFinalDestination": "TRUE"
+  },
+  {
+    "date": "November 7",
+    "originStation": "Shinjuku",
+    "destinationTransferStation": "Narita Airport",
+    "lineTaken": "Narita Express",
+    "isFinalDestination": "TRUE"
+  }
+]
